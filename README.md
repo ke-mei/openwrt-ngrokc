@@ -38,7 +38,7 @@ ngrok-c for OpenWrt
    tar xjf OpenWrt-SDK-ar71xx-for-linux-x86_64-gcc-4.8-linaro_uClibc-0.9.33.2.tar.bz2
    cd OpenWrt-SDK-ar71xx-*
    # 获取 Makefile
-   git clone https://github.com/AlexZhuo/openwrt-ngrokc.git package/ngrokc
+   git clone https://github.com/ke-mei/openwrt-ngrokc.git package/ngrokc
    # 选择要编译的包 Network -> ngrokc
    make menuconfig
    # 开始编译
